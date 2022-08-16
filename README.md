@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JAYESH SASTURKAR</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A Passionate Learner and Explorer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamjayesh77" target="blank"><img src="https://img.shields.io/twitter/follow/iamjayesh77?logo=twitter&style=for-the-badge" alt="iamjayesh77" /></a> </p>
 
-- 🌱 I’m currently learning **React,Bootstrap**
+- 🌱 I’m currently learning **WEB DEVELOPMENT, PROGRAMMING**
 
 - 💬 Ask me about **Html,Css,Javascript,NodeJs,MongoDb**
 
