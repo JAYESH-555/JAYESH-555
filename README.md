@@ -1,8 +1,8 @@
-[![MasterHead](http://www.webitexperts.com/images/banner1_1.gif)]
+
 
 <h1 align="center">Hi 👋, I'm JAYESH SASTURKAR</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayesh-555&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh-555" /> </p>
