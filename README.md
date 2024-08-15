@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT, PROGRAMMING**
 
-- 💬 Ask me about **Html,Css,Javascript,NodeJs,MongoDb**
+- 💬 Ask me about **Development**
 
 - 📫 How to reach me **jayesh.sasturkar29@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
